@@ -50,12 +50,15 @@ python3 -m pip install --user -r requirements.txt
 در صورت عدم نصب با دستور بالا:
 
 python3 -m pip install --user "pyTelegramBotAPI<4.0" schedule
+
 python3 -m pip install --user pyTelegramBotAPI schedule
 
 مشاهده ورژن و حذف:
 
 python3 -m pip show pyTelegramBotAPI
+
 python3 -m pip show schedule
+
 python3 -m pip uninstall pyTelegramBotAPI
 
 راه اندازی ربات:
