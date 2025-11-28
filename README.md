@@ -79,4 +79,4 @@ Day: *
 Month: *
 Weekday: *
 
-/home/anonymou/public_html/telegram-bot/start_bot.sh
+/home/Username/public_html/telegram-bot/start_bot.sh
