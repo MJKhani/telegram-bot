@@ -1,2 +1,2 @@
-pyTelegramBotAPI
+pyTelegramBotAPI<4.0
 schedule
