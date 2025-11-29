@@ -92,7 +92,7 @@ https://t.me/AnonymousVps011Admin
             print(f"خطا در ارسال به {uid}: {e}")
 
 # روزانه (اختیاری)
-schedule.every().day.at("06:30").do(send_scheduled_message)
+#schedule.every().day.at("06:30").do(send_scheduled_message)
 
 def scheduler_loop():
     while True:
@@ -269,3 +269,4 @@ def run_bot_forever():
             time.sleep(5)
 
 run_bot_forever()
+
